@@ -1,0 +1,152 @@
+<Modis>
+	<Modus name="Marcins Modus">
+		<Benutzer>chee</Benutzer>
+		<erstelltAm />
+		<verandertAm />
+		<Beschreibung>
+			Normaler Modus fuer das Arbeiten mit Dokumenten.
+		</Beschreibung>
+		<Tags>
+			<Tag>Arbeit</Tag>
+			<Tag>Schule</Tag>
+			<Tag>Office</Tag>
+		</Tags>
+		<Interval>20</Interval>
+		<wechselfluessig>True</wechselfluessig>
+		<Breakpoints>
+			<Breakpoint Farbtemperatur="1300" Zeit="8">
+				<Beschreibung>Stehe auf</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="3000" Zeit="9">
+				<Beschreibung>Schule f&#228;ng an</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="4000" Zeit="12">
+				<Beschreibung>Mittagspause</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="3000" Zeit="14">
+				<Beschreibung>Nachmittagsarbeit</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="2500" Zeit="18">
+				<Beschreibung>Feierabend</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="2000" Zeit="19">
+				<Beschreibung>Abend</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="1200" Zeit="22">
+				<Beschreibung>Bettruhe</Beschreibung>
+			</Breakpoint>
+		</Breakpoints>
+	</Modus>
+		<Modus name="Arbeits Modus">
+		<Benutzer>chee</Benutzer>
+		<erstelltAm />
+		<verandertAm />
+		<Beschreibung>
+			Normaler Modus fuer das Arbeiten mit Dokumenten.
+		</Beschreibung>
+		<Tags>
+			<Tag>Arbeit</Tag>
+			<Tag>Office</Tag>
+		</Tags>
+		<Interval>20</Interval>
+		<wechselfluessig>True</wechselfluessig>
+		<Breakpoints>
+			<Breakpoint Farbtemperatur="1300" Zeit="8">
+				<Beschreibung>Stehe auf</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="3000" Zeit="9">
+				<Beschreibung>Schule f&#228;ng an</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="4000" Zeit="12">
+				<Beschreibung>Mittagspause</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="4000" Zeit="14">
+				<Beschreibung>Nachmittagsarbeit</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="2000" Zeit="18">
+				<Beschreibung>Feierabend</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="1750" Zeit="19">
+				<Beschreibung>Abend</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="1500" Zeit="20">
+				<Beschreibung>Feierabend</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="1200" Zeit="22">
+				<Beschreibung>Bettruhe</Beschreibung>
+			</Breakpoint>
+		</Breakpoints>
+	</Modus>
+		<Modus name="Ferien Modus">
+		<Benutzer>chee</Benutzer>
+		<erstelltAm />
+		<verandertAm />
+		<Beschreibung>
+			Normaler Modus fuer das Arbeiten mit Dokumenten.
+		</Beschreibung>
+		<Tags>
+			<Tag>Ferien</Tag>
+			<Tag>Filme</Tag>
+			<Tag>E-Book</Tag>
+		</Tags>
+		<Interval>20</Interval>
+		<wechselfluessig>True</wechselfluessig>
+		<Breakpoints>
+			<Breakpoint Farbtemperatur="1300" Zeit="8">
+				<Beschreibung>Stehe auf</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="2000" Zeit="9">
+				<Beschreibung>Schule f&#228;ng an</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="3000" Zeit="12">
+				<Beschreibung>Mittagspause</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="2500" Zeit="18">
+				<Beschreibung>Feierabend</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="2000" Zeit="19">
+				<Beschreibung>Abend</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="1200" Zeit="22">
+				<Beschreibung>Bettruhe</Beschreibung>
+			</Breakpoint>
+		</Breakpoints>
+	</Modus>
+		<Modus name="Debug Modus">
+		<Benutzer>chee</Benutzer>
+		<erstelltAm />
+		<verandertAm />
+		<Beschreibung>
+			Normaler Modus fuer das Arbeiten mit Dokumenten.
+		</Beschreibung>
+		<Tags>
+			<Tag>Schule</Tag>
+			<Tag>Schule</Tag>
+		</Tags>
+		<Interval>20</Interval>
+		<wechselfluessig>True</wechselfluessig>
+		<Breakpoints>
+			<Breakpoint Farbtemperatur="4000" Zeit="8">
+				<Beschreibung>Stehe auf</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="5000" Zeit="9">
+				<Beschreibung>Schule f&#228;ng an</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="6000" Zeit="12">
+				<Beschreibung>Mittagspause</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="7000" Zeit="14">
+				<Beschreibung>Nachmittagsarbeit</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="8500" Zeit="18">
+				<Beschreibung>Feierabend</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="2000" Zeit="19">
+				<Beschreibung>Abend</Beschreibung>
+			</Breakpoint>
+			<Breakpoint Farbtemperatur="1200" Zeit="22">
+				<Beschreibung>Bettruhe</Beschreibung>
+			</Breakpoint>
+		</Breakpoints>
+	</Modus>
+<Modus name="Schul Modus"><Benutzer>heyMann</Benutzer><erstelltAm>None</erstelltAm><verandertAm>None</verandertAm><Beschreibung>Normaler Modus fuer das Arbeiten mit Dokumenten.</Beschreibung><Interval>None</Interval><wechselfluessig>True</wechselfluessig><Tags><Tag>schule</Tag><Tag>hausaufgaben</Tag></Tags><Breakpoints><Breakpoint Farbtemperatur="4000" Zeit="8"><Beschreibung /></Breakpoint><Breakpoint Farbtemperatur="5000" Zeit="9"><Beschreibung /></Breakpoint><Breakpoint Farbtemperatur="6000" Zeit="12"><Beschreibung /></Breakpoint><Breakpoint Farbtemperatur="7000" Zeit="14"><Beschreibung /></Breakpoint><Breakpoint Farbtemperatur="8500" Zeit="18"><Beschreibung /></Breakpoint><Breakpoint Farbtemperatur="2000" Zeit="19"><Beschreibung /></Breakpoint><Breakpoint Farbtemperatur="1200" Zeit="22"><Beschreibung /></Breakpoint></Breakpoints></Modus></Modis>

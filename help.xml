@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<help>
+	<section name="questions">
+		<helpitem name="How to set a mode?">
+			Go to main window and select in the right upper corner with the
+			combobox the current mode.
+		</helpitem>
+		<helpitem name="How to start a mode?">
+			main window -: start mode
+		</helpitem>
+		<helpitem name="How to stop a mode?">
+			main window -: stop mode
+		</helpitem>
+		<helpitem name="How to set konstant color temperature?">
+			main window -: set konstant
+			regulate with the shown slider the konstant color temperature.
+		</helpitem>
+		<helpitem name="How to create a new mode?">
+			main window -: edit modes -: add mode
+		</helpitem>
+		<helpitem name="How to edit a mode?">
+			main window -: edit modes -: select mode to edit and push edit mode.
+		</helpitem>
+		<helpitem name="How to edit delete a mode?">
+			main window -: edit modes -: selete mode to delete and push remove.
+		</helpitem>
+		<helpitem name="How to set normal color temperature?">
+			main window -: settings -: normal color temperature slider -: apply.
+		</helpitem>
+		<helpitem name="How to preview a mode?">
+			main window -: preview
+		</helpitem>
+		<helpitem name="Can i have multiple mode packages?">
+			Yes you can, just create your own xml file and select it in the settings.
+		</helpitem>
+	</section>
+	<section name="problems">
+		<helpitem name="Can't start the application">
+			Make sure that your xml and your settings ini file is existing.
+			In the case you have deleted them look into the questions how you can create them.
+		</helpitem>
+		<helpitem name="The monitor flickers,... why!?">
+			Please close any other applikation that has an Influence on your display device.
+		</helpitem>
+		<helpitem name="Sunrise and sunset time is Wrong">
+			Please go to the settings and edit your coordinates.
+		</helpitem>
+		<helpitem name="I have deleted my modi.xml, whats next?">
+			Create it.
+		</helpitem>
+	</section>
+	<section name="bugs">
+		<helpitem name="The application forzens at preview mode">
+			Thats normal.
+		</helpitem>
+	</section>
+</help>
